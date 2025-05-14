@@ -3,7 +3,7 @@
     "chart": "airflow",
     "repoURL": "https://airflow.apache.org",
     "targetRevision": 1.15.0,
-    "valuesRepoURL": "https://github.com/keenangraham/cdk-kubernetes",
+    "valuesRepoURL": "https://github.com/IGVF-DACC/cdk-kubernetes",
     "valuesFile": "apps/data-stack/airflow/values.yaml",
     "additionalResources": "apps/data-stack/airflow/additional_resources/dev"
 }
